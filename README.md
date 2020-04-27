@@ -21,7 +21,7 @@ I will use data from Foursquare to qualify and cluster neighbourhoods:
 - revues based on type
 - distance from center of the neighborhood
 
-I will check other sources for crime and unemployment rates: 
-Here is some examples 
-Chicago crime https://data.world/publicsafety/chicago-crime/file/chicago_crime_2014.csv or https://home.chicagopolice.org/statistics-data/public-arrest-data/
-Europe unemployment https://ec.europa.eu/eurostat/statistics-explained/images/b/b4/Unemployment_in_the_regions_of_the_EU_UK_EFTA_and_CC_2019_-_updated.xlsx
+I will check other sources for crime and unemployment rates: <br>
+Here is some examples <br>
+Chicago crime https://data.world/publicsafety/chicago-crime/file/chicago_crime_2014.csv or https://home.chicagopolice.org/statistics-data/public-arrest-data/ <br>
+European unemployment https://ec.europa.eu/eurostat/statistics-explained/images/b/b4/Unemployment_in_the_regions_of_the_EU_UK_EFTA_and_CC_2019_-_updated.xlsx
