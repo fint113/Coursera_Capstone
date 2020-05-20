@@ -1,6 +1,8 @@
 # Coursera Capstone
 ## Capstone Project Course
 
+https://github.com/fint113/Coursera_Capstone/blob/master/Similar%20district%20project_may.ipynb
+
 ### Introduction/Business Problem
 One family with a little child decided to move to another country. They have already chosen a city, but have a lot of doubts about neighbourhoods. They want to low an impact of the relocation on their life, as well as work. That's why they asked me to compare their previous home city with a new one and indicate similar neighbourhoods.
 
